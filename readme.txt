@@ -1,7 +1,7 @@
 1.Vasywoksについて
 Vasyworks（ベイジーワークス）は賃貸管理業において、空室情報を登録、公開するための一連のシステムの総称です。主に賃貸管理業者（法人および個人）が管理物件の空室情報を賃貸仲介業者に公開するための利用を想定しています。
 
-VasyworksはVasyworksDB（データベース構築プロジェクト）、VasyworksMGR（空室情報データ管理プロジェクト）、VasyworksLIST（空室情報一覧プロジェクト）、VasyworksAPI（空室情報APIプロジェクト）など複数のプロジェクトから構成されています。
+VasyworksはVasyworksDB（データベース構築プロジェクト）、VasyworksMGR（空室情報データ管理プロジェクト）、VasyworksLIST（空室情報一覧プロジェクト）、VasyworksAPI（空室情報APIプロジェクト）、VasyworksSEARCH（空室情報検索プロジェクト）など複数のプロジェクトから構成されています。
 
 2.Vasyworks SUUMOコンバータについて
 Vasyworks SUUMOコンバータはVasyworksAPIのデータ連携用APIを用いて、不動産ポータルサイトのSUUMOに一括入稿するためのデータを生成するためのコンバータです。
